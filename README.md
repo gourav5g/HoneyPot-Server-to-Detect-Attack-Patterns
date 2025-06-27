@@ -391,6 +391,9 @@ Attackers from multiple countries are interacting with the honeypot, which indic
 
 ![33](https://github.com/user-attachments/assets/dcfc095e-0a22-4986-b80b-fd4b28e3c6bd)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # Ethical-Phishing-Simulation-Platform - By Gourav Niroula (Project 2)
 
 An open-source platform designed for cybersecurity awareness training through realistic, ethical phishing simulations. This tool helps organizations educate employees, test resilience to social engineering attacks, and improve overall security posture — without compromising user privacy or trust.
@@ -418,15 +421,24 @@ A collection of phishing samples for researchers and detection developers.
 - Click on the three dots (⋮) → "Show Original".
 - Copy the full header and paste it into the MXToolbox tool.
 
+ ![a](https://github.com/user-attachments/assets/8e325e64-c1a7-432e-89c0-6b95b50bc5d7)
+
 **Key Findings:**
 
 - Blacklisted IP Address: The sending server appears on known blacklists.
 - Authentication Failures: SPF/DKIM/DMARC checks failed.
 - Received Paths: Indicate email was relayed through suspicious or spoofed sources.
 
+![b](https://github.com/user-attachments/assets/c055d20b-fb39-459f-bc3c-3e8d567a52e0)
+
+![c](https://github.com/user-attachments/assets/cffa30c6-6119-448e-8cc2-eeb3d83e4883)
+
 **Sample link for header analysis:**  
 [https://mxtoolbox.com/Public/Tools/EmailHeaders.aspx?huid=9331f3c8-e3c9-4723-b961-c9abbfe5fe23](https://mxtoolbox.com/Public/Tools/EmailHeaders.aspx?huid=9331f3c8-e3c9-4723-b961-c9abbfe5fe23)  
+
 You can see this IP is blacklisted.
+
+![d](https://github.com/user-attachments/assets/cb38be62-c201-4312-a332-bf0679edd4aa)
 
 ---
 
@@ -441,7 +453,9 @@ You can see this IP is blacklisted.
 
 ### 3. Look for Urgent or Threatening Language in the Email Body
 
+
 If you read this email, you can see the following:
+
 
 > You are expected to call DHL office +1(318)901–5153 immediately you receive this message because Bank of America (BOA) has finally released your compensation fund of $6,400,000.00 million USD and it has been programmed into an ATM visa debit card.  
 > Right now your ATM card parcel is in DHL office waiting for your address of where to deliver it.
@@ -451,6 +465,13 @@ If you read this email, you can see the following:
 ### 4. Note Any Mismatched URLs (Hover to See Real Link)
 
 There are no clickable URLs in the email, but if there were, it’s important to hover over any links to check if the displayed text matches the actual URL. In phishing emails, attackers often use mismatched URLs to trick users into clicking malicious sites that look legitimate. Always verify the real destination before clicking.
+
+![e](https://github.com/user-attachments/assets/0e39de24-1bae-4e76-a729-1b550f616713)
+
+Always verify the real destination before clicking.
+
+![f](https://github.com/user-attachments/assets/02e14ac7-d181-4413-9063-7b8464b68e0f)
+
 
 ---
 
