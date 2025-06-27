@@ -1,4 +1,7 @@
-# HoneyPot-Server-to-Detect-Attack-Patterns
+**NOTE: Two Projects are Listed Bewlo in This reporistory**
+---
+
+# HoneyPot-Server-to-Detect-Attack-Patterns )  - By Gourav Niroula (Project 1) 
 A lightweight honeypot server designed to attract, log, and analyze malicious traffic to uncover common attack patterns and techniques. Ideal for research, threat intelligence, and intrusion detection.  
 
 
